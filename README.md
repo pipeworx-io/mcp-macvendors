@@ -2,12 +2,13 @@
 
 macvendors.com MCP — MAC address (OUI) → hardware manufacturer lookup.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 808+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1394+ live data sources.
 
 ## Tools
 
 | Tool | Description |
 |------|-------------|
+| `lookup` | macvendors.com = MAC address → hardware manufacturer (OUI) lookup; pass a full MAC or just the first 6 hex digits. Keyless; free tier is rate-limited to ~1 request/second. |
 
 ## Quick Start
 
@@ -23,7 +24,7 @@ Add to your MCP client (Claude Desktop, Cursor, Windsurf, etc.):
 }
 ```
 
-Or connect to the full Pipeworx gateway for access to all 808+ data sources:
+Or connect to the full Pipeworx gateway for access to all 1394+ data sources:
 
 ```json
 {
@@ -47,7 +48,7 @@ The gateway picks the right tool and fills the arguments automatically.
 
 ## More
 
-- [All tools and guides](https://github.com/pipeworx-io/examples)
+- [Docs and guides](https://pipeworx.io/docs)
 - [pipeworx.io](https://pipeworx.io)
 
 ## License
