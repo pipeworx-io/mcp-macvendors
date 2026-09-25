@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/macvendors",
   "title": "Macvendors",
   "description": "macvendors.com MCP — MAC address (OUI) → hardware manufacturer lookup.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/macvendors",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-macvendors",
