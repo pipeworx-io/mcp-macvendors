@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-macvendors",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "macvendors.com MCP — MAC address (OUI) → hardware manufacturer lookup.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-dd06f90197c8d51ba987e61c9cea8d274f2b9a0c93deb40aef84a4c05792b650",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-0a8febdb3c3cc484565798b4fa95bf628d38663eaa3cf5f57b06817820c70906",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
