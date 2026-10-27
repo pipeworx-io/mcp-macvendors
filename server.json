@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/macvendors",
   "title": "Macvendors",
-  "description": "macvendors.com MCP — MAC address (OUI) → hardware manufacturer lookup.",
-  "version": "0.1.3",
+  "description": "macvendors.com MCP — MAC address (OUI) → hardware manufacturer lookup. Keyless. Free tier…",
+  "version": "0.1.4",
   "websiteUrl": "https://pipeworx.io/packs/macvendors",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-macvendors",
